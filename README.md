@@ -25,7 +25,7 @@ The second URL segment will be used as the name of the action/method; `/home/ind
 
 Other segments will be forwarded as method arguments; `/products/show/5` will invoke `show()` method in `App\Controllers\ProductsController`, passing the number `5` as its first argument.
 
-
+Tutorial: https://codemolecules.com/php/a-simple-psr-4-router-for-php/
 
 ## Change log
 
